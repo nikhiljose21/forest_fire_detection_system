@@ -1,1 +1,1 @@
-# forest_fire_detection_system
+# Forest Fire Detection System
